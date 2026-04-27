@@ -6,7 +6,7 @@
 
 ## ダウンロード
 
-<a href="https://github.com/Sadc2h4/Lotad-Icon-Editor/releases/tag/v2.0a">
+<a href="https://github.com/P2-Lab-C2H4/Lotad-Icon-Editor/releases/tag/v2.0a">
   <img
     src="https://raw.githubusercontent.com/Sadc2h4/brand-assets/main/button/Download_Button_1.png"
     alt="Download .zip"
