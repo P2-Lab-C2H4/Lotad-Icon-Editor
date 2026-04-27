@@ -2,7 +2,7 @@
 Lotad Icon Editor
 
 ◆ カテゴリ
-Pokemon
+Pokemon Hack
 
 ◆ 概要
 BPRJ/BPRE向けのポケモンアイコン確認用ツールです．Romイメージだけでなくフォルダにも対応しています．
